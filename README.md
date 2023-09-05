@@ -10,7 +10,7 @@ In today's era of digital information overload, effectively organizing and categ
 The exponential growth of digital content, including articles, research papers, news, blogs, and user-generated content, has made it increasingly difficult to manually classify and organize these documents. Automated systems are needed to categorize texts based on their content, context, or themes, making it easier for users to search, retrieve, and navigate through the vast amount of available information.
 
 #Key Objectives
--Semantic Classification: Develop an NLP-based model capable of classifying documents or text snippets into semantically meaningful categories, which can be based on topics, themes, or other relevant criteria.
+*Semantic Classification: Develop an NLP-based model capable of classifying documents or text snippets into semantically meaningful categories, which can be based on topics, themes, or other relevant criteria.
 
 -Unsupervised Learning: Investigate unsupervised learning techniques, such as topic modeling or clustering, to categorize documents without the need for pre-defined labels.
 
