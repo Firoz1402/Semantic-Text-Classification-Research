@@ -83,11 +83,7 @@ You can download the cleaned dataset directly from this repository by clicking o
 
 [Download Cleaned Dataset (CleanedData.csv)](https://github.com/Firoz1402/Semantic-Text-Classification-Research/blob/main/data/CleanedData.csv)
 
-## Original Dataset (For Reference)
-
-For reference and transparency, we have also provided a link to the original dataset. This dataset may not be suitable for direct use due to its large size, but it can be valuable for understanding the data's source and history.
-
-**Link to Original Dataset:** [Dataset Download Link](https://github.com/Firoz1402/Semantic-Text-Classification-Research/tree/main/data)
+# Important
 
 Please note that the original dataset should be considered the source of truth, and any analyses or findings should ideally be based on the cleaned and preprocessed dataset included in this repository.
 
