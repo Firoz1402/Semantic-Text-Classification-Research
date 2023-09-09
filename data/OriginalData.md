@@ -81,7 +81,7 @@ The cleaned dataset is provided here for your convenience. You can use this data
 
 You can download the cleaned dataset directly from this repository by clicking on the following link:
 
-[Download Cleaned Dataset (CleanedData.csv)](https://github.com/yourusername/your-repo/raw/main/data/CleanedData.csv)
+[Download Cleaned Dataset (CleanedData.csv)](https://github.com/Firoz1402/Semantic-Text-Classification-Research/blob/main/data/CleanedData.csv)
 
 ## Original Dataset (For Reference)
 

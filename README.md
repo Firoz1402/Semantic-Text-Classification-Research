@@ -7,8 +7,8 @@ Welcome to the repository for the research internship project on "Semantic Text 
 In today's era of digital information overload, effectively organizing and categorizing large volumes of unstructured text data is a fundamental challenge. This academic internship project seeks to address this challenge by developing a text classification system capable of semantically categorizing various documents or text snippets into meaningful and contextually relevant categories. The project will explore the potential of NLP and text classification techniques to streamline the organization of textual data.
 
 #Dataset 
-https://drive.google.com/file/d/1mi7RC0HwBDfVUrlVp7njD-0Z22rfayNA/view?usp=drive_link
-csv file with almost 45k data-points
+For the Dataset and Pre-processing details, please refer to our directory :
+**Link to Dataset:** [Dataset Link](https://github.com/Firoz1402/Semantic-Text-Classification-Research/blob/main/data/OriginalData.md)
 
 # Problem Description
 The exponential growth of digital content, including articles, research papers, news, blogs, and user-generated content, has made it increasingly difficult to manually classify and organize these documents. Automated systems are needed to categorize texts based on their content, context, or themes, making it easier for users to search, retrieve, and navigate through the vast amount of available information.
