@@ -1,0 +1,5 @@
+,Dataset,SVM,Logistic Reg,Naive-Bayes,Random Forest,XGBoost,D Trees,RNN,LSTM,BERT,Best
+0,Dataset 1(Movie-Genre),0.52,0.534,0.52,0.43,0.49,0.39,0.39,0.5,0.62,BERT
+1,Dataset 2(News),0.766,0.766,0.73,0.72,0.746,0.72,0.63,0.75,0.835,BERT
+2,Dataset 3(Medical),0.946,0.944,0.93,0.9587,0.9592,0.94,0.95,0.9583,0.9585,XGBoost
+3,Dataset 4,0.9591,0.9546,0.9379,0.931,0.9312,0.88,0.888,0.93,0.9611,BERT
